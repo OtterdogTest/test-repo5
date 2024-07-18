@@ -5,6 +5,7 @@ name: Verify Code Freeze Period
 on:
   workflow_call
   
+
 permissions:
   contents: read
 
